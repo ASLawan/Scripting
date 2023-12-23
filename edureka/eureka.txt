@@ -1,0 +1,4 @@
+Hello!
+I am learning linux basics from edureka
+My name is Lawan.
+I am a software engineer
