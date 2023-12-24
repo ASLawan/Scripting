@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+# arithmetic expansion
+
+NUMBER=7
+
+echo "My number is $NUMBER"
+echo
+echo "Post increment: $((NUMBER++))"
+echo
+echo "Pre increment: $((++NUMBER))"
+echo
+echo "Post decrement: $((NUMBER--))"
+echo
+echo "Pre decremetn: $((--NUMBER))"
+echo
+echo "Number plus Number: $((NUMBER + NUMBER))"
+echo
+echo "Number times Number: $((NUMBER * NUMBER))"
+echo
+echo "Number div Number: $((NUMBER / NUMBER))"
+echo
+echo "Number minus Number: $((NUMBER - NUMBER))"
+echo 
+echo "Number mod Number: $((NUMBER % NUMBER))"
+echo
+echo "Number squared: $((NUMBER**NUMBER))"
+echo 
+echo "Number raise to 2: $((NUMBER**2))"

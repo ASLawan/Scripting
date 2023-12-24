@@ -1,0 +1,151 @@
+1	Abarth	Italy
+2	Acura	Japan
+3	Aiways	China
+4	Alfa Romeo	Italy
+5	Aprilia	Italy
+6	Arcfox	China
+7	Arch Motorcycle	United States
+8	Ashok Leyland	India
+9	Aspark	Japan
+10	Aston Martin	United Kingdom
+11	Audi	Germany
+12	Automobile Dacia	Romania
+13	Automobili Pininfarina	Germany
+14	AvtoVAZ	Russia
+15	Bajaj	India
+16	Baojun	China
+17	Beijing Automobile Works	China
+18	Benelli	Italy
+19	Bentley	United Kingdom
+20	Bestune	China
+21	BharatBenz	India
+22	BJEV	China
+23	BMW	Germany
+24	BrightDrop	United States
+25	Buell Motorcycle	United States
+26	Bugatti	France
+27	Buick	United States
+28	BYD Auto	China
+29	Cadillac	United States
+30	CFMoto	China
+31	Changan Automobile	China
+32	Chery Automobile	China
+33	Chevrolet	United States
+34	Chrysler	United States
+35	Citroën	France
+36	Cupra	Spain
+37	Dacia	Romania
+38	Daewoo	South Korean
+39	Daihatsu	Japan
+40	Datsun	Japan
+41	Denza	China
+42	DFSK Motor	China
+43	Dodge	United States
+44	Dongfeng Motor	China
+45	DS Automobiles	France
+46	Ducati	Italy
+47	Eicher Motors	India
+48	Enovate	China
+49	Farizon Auto	China
+50	FAW Group	China
+51	Ferrari	Italy
+52	Fiat	Italy
+53	Fisker Inc.	United States
+54	Force Motors	India
+55	Ford	United States
+56	GAC Group	China
+57	Geely Auto	China
+58	General Motors	United States
+59	Genesis Motor	South Korea
+60	GMC	United States
+61	Great Wall Motors	China
+62	Harley Davidson	United States
+63	Hero Moto Corp	India
+64	Higer	China
+65	HiPhi	China
+66	Holden	Australia
+67	Honda	Japan
+68	Hozon Auto	China
+69	Husqvarna	Sweden
+70	Hyundai	South Korea
+71	IM Motors	China
+72	Indian Motorcycle	United States
+73	Infiniti	Japan
+74	Isuzu Motors	Japan
+75	JAC Motors	China
+76	Jaguar Land Rover	United Kingdom
+77	Janus Motorcycles	United States
+78	Jawa Motorcycles	Czech Republic
+79	Jeep	United States
+80	Kandi	China
+81	Kawasaki	Japan
+82	Kia Motors	South Korea
+83	KTM	Austria
+84	Lada	Russia
+85	Lamborghini	Italy
+86	Lancia	Italy
+87	Land Rover	United Kingdom
+88	Leapmotor	China
+89	Lexus	Japan
+90	Lightyear	Netherlands
+91	Lordstown Motors	United States
+92	Lotus Cars	United Kingdom
+93	Lucid Motors	United States
+94	Mahindra & Mahindra	India
+95	Maruti Suzuki	India
+96	Maserati	Italy
+97	Maybach	German
+98	Mazda	Japan
+99	McLaren Automotive	United Kingdom
+100	Mercedes-Benz	Germany
+101	MG	China
+102	Mini	United Kingdom
+103	Mitsubishi Motors	Japan
+104	Moto Guzzi	Italy
+105	Nanjing Automobile	China
+106	Nio	China
+107	Nissan	Japan
+108	Norton Motorcycle	United Kingdom
+109	Opel	Germany
+110	Peugeot	France
+111	Piaggio	Italy
+112	Polaris	United States
+113	Polestar	Sweden
+114	Porsche	Germany
+115	Qiantu Motor	China
+116	Razor Motorcycle	United States
+117	Renault	France
+118	Rimac Automobili	Croatia
+119	Rivian	United States
+120	Rolls-Royce	United Kingdom
+121	Royal Enfield	India
+122	SAIC Motor	China
+123	Saleen Automotive	United States
+124	SEAT	Spain
+125	Shineray Group	China
+126	Singulato	China
+127	Škoda Auto	Czech Republic
+128	Smart Automobile	Germany
+129	SsangYong Motor	South Korea
+130	Subaru	Japan
+131	Suzuki	Japan
+132	Tata Motors	India
+133	Tesla	United States
+134	Toyota	Japan
+135	Triumph	England
+136	TVS	India
+137	UAZ	Russia
+138	Vauxhall	United Kingdom
+139	Vespa	Italy
+140	Victory Motorcycle	United States
+141	VinFast	Vietnam
+142	Volkswagen	Germany
+143	Volvo Cars	Sweden
+144	Weltmeister	China
+145	W Motors	Lebanon
+146	Wuling	China
+147	XPeng	China
+148	Yamaha	Japan
+149	Zero Motorcycle	United States
+150	Zenvo Automotive	Denmark
+151	Zündapp Janus

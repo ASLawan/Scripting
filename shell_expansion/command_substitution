@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# shell command substitution
+
+echo "Command substitution with brackets:"
+echo
+echo "$(date)"
+echo
+echo
+echo "Command subsitution with back ticks:"
+echo 
+echo "`date`"
